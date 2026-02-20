@@ -1,0 +1,9 @@
+/Binaries/
+/Intermediate/
+/Saved/
+/DerivedDataCache/
+*.sln
+*.vcxproj*
+*.opensdf
+*.suo
+*.user
