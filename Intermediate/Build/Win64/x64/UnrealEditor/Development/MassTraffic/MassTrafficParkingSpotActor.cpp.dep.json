@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\source\\masstraffic\\private\\masstrafficparkingspotactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\ue_projects\\masstraffic-test-main\\intermediate\\build\\win64\\x64\\traffictesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\masstraffic\\definitions.masstraffic.h",
+            "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\source\\masstraffic\\public\\masstrafficparkingspotactor.h",
+            "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\source\\masstraffic\\public\\masstrafficproxyactor.h",
+            "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\intermediate\\build\\win64\\unrealeditor\\inc\\masstraffic\\uht\\masstrafficproxyactor.generated.h",
+            "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\intermediate\\build\\win64\\unrealeditor\\inc\\masstraffic\\uht\\masstrafficparkingspotactor.generated.h",
+            "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\source\\masstraffic\\public\\masstrafficparkingspotcomponent.h",
+            "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\intermediate\\build\\win64\\unrealeditor\\inc\\masstraffic\\uht\\masstrafficparkingspotcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

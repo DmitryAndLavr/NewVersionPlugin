@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\source\\masstraffic\\private\\masstrafficfieldactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\ue_projects\\masstraffic-test-main\\intermediate\\build\\win64\\x64\\traffictesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\masstraffic\\definitions.masstraffic.h",
+            "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\source\\masstraffic\\public\\masstrafficfieldactor.h",
+            "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\source\\masstraffic\\public\\masstrafficfieldcomponent.h",
+            "e:\\ue_5.7\\engine\\source\\runtime\\massentity\\public\\massentityhandle.h",
+            "e:\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\massentity\\uht\\massentityhandle.generated.h",
+            "e:\\ue_5.7\\engine\\plugins\\runtime\\zonegraph\\source\\zonegraph\\public\\zonegraphtypes.h",
+            "e:\\ue_5.7\\engine\\plugins\\runtime\\zonegraph\\source\\zonegraph\\public\\zonegraphbvtree.h",
+            "e:\\ue_5.7\\engine\\plugins\\runtime\\zonegraph\\intermediate\\build\\win64\\unrealeditor\\inc\\zonegraph\\uht\\zonegraphbvtree.generated.h",
+            "e:\\ue_5.7\\engine\\plugins\\runtime\\zonegraph\\intermediate\\build\\win64\\unrealeditor\\inc\\zonegraph\\uht\\zonegraphtypes.generated.h",
+            "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\intermediate\\build\\win64\\unrealeditor\\inc\\masstraffic\\uht\\masstrafficfieldcomponent.generated.h",
+            "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\intermediate\\build\\win64\\unrealeditor\\inc\\masstraffic\\uht\\masstrafficfieldactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

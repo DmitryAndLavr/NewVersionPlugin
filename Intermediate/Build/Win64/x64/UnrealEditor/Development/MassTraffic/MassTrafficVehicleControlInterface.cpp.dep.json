@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\source\\masstraffic\\private\\masstrafficvehiclecontrolinterface.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\ue_projects\\masstraffic-test-main\\intermediate\\build\\win64\\x64\\traffictesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\masstraffic\\definitions.masstraffic.h",
+            "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\source\\masstraffic\\public\\masstrafficvehiclecontrolinterface.h",
+            "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\intermediate\\build\\win64\\unrealeditor\\inc\\masstraffic\\uht\\masstrafficvehiclecontrolinterface.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

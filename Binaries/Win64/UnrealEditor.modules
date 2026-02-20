@@ -1,0 +1,8 @@
+{
+	"BuildId": "47537391",
+	"Modules": 
+	{
+		"MassTraffic": "UnrealEditor-MassTraffic.dll",
+		"MassTrafficEditor": "UnrealEditor-MassTrafficEditor.dll"
+	}
+}

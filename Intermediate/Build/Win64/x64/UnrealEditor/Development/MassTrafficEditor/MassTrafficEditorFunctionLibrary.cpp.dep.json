@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\source\\masstrafficeditor\\private\\masstrafficeditorfunctionlibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\ue_projects\\masstraffic-test-main\\intermediate\\build\\win64\\x64\\traffictesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\masstrafficeditor\\definitions.masstrafficeditor.h",
+            "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\source\\masstrafficeditor\\public\\masstrafficeditorfunctionlibrary.h",
+            "e:\\ue_5.7\\engine\\plugins\\runtime\\zonegraph\\source\\zonegraph\\public\\zonegraphtypes.h",
+            "e:\\ue_5.7\\engine\\plugins\\runtime\\zonegraph\\source\\zonegraph\\public\\zonegraphbvtree.h",
+            "e:\\ue_5.7\\engine\\plugins\\runtime\\zonegraph\\intermediate\\build\\win64\\unrealeditor\\inc\\zonegraph\\uht\\zonegraphbvtree.generated.h",
+            "e:\\ue_5.7\\engine\\plugins\\runtime\\zonegraph\\intermediate\\build\\win64\\unrealeditor\\inc\\zonegraph\\uht\\zonegraphtypes.generated.h",
+            "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\intermediate\\build\\win64\\unrealeditor\\inc\\masstrafficeditor\\uht\\masstrafficeditorfunctionlibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

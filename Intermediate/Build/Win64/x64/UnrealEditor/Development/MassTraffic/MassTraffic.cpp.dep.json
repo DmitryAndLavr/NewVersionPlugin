@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\source\\masstraffic\\private\\masstraffic.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\ue_projects\\masstraffic-test-main\\intermediate\\build\\win64\\x64\\traffictesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\masstraffic\\definitions.masstraffic.h",
+            "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\source\\masstraffic\\public\\masstraffic.h",
+            "e:\\ue_5.7\\engine\\plugins\\runtime\\massgameplay\\source\\masscommon\\public\\masscommontypes.h",
+            "e:\\ue_5.7\\engine\\source\\runtime\\massentity\\public\\massprocessingtypes.h",
+            "e:\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\structutils\\structutilstypes.h",
+            "e:\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\structutils\\structutilsmacros.h",
+            "e:\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\structutils\\instancedstruct.h",
+            "e:\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\structutils\\structutils.h",
+            "e:\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreuobject\\uht\\instancedstruct.generated.h",
+            "e:\\ue_5.7\\engine\\source\\runtime\\massentity\\public\\massentitymacros.h",
+            "e:\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\massentity\\uht\\massprocessingtypes.generated.h",
+            "e:\\ue_5.7\\engine\\source\\runtime\\aimodule\\public\\sequentialid.h",
+            "e:\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\sequentialid.generated.h",
+            "e:\\ue_5.7\\engine\\plugins\\runtime\\massgameplay\\intermediate\\build\\win64\\unrealeditor\\inc\\masscommon\\uht\\masscommontypes.generated.h",
+            "e:\\ue_5.7\\engine\\plugins\\runtime\\massgameplay\\source\\masslod\\public\\masslodtypes.h",
+            "e:\\ue_5.7\\engine\\plugins\\runtime\\massgameplay\\intermediate\\build\\win64\\unrealeditor\\inc\\masslod\\uht\\masslodtypes.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\source\\masstrafficeditor\\private\\masstrafficbuildermarkeractor.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\ue_projects\\masstraffic-test-main\\intermediate\\build\\win64\\x64\\traffictesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\masstrafficeditor\\definitions.masstrafficeditor.h",
+            "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\source\\masstrafficeditor\\public\\masstrafficbuildermarkeractor.h",
+            "e:\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\components\\arrowcomponent.h",
+            "e:\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\arrowcomponent.generated.h",
+            "f:\\ue_projects\\masstraffic-test-main\\plugins\\traffic\\intermediate\\build\\win64\\unrealeditor\\inc\\masstrafficeditor\\uht\\masstrafficbuildermarkeractor.generated.h",
+            "e:\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.h",
+            "e:\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetmathlibrary.generated.h",
+            "e:\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
